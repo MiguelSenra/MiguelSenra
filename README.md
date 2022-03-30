@@ -7,7 +7,7 @@ Universidade do Minho
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelSenra&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru" height="180em"/>
     </div>
   </a>
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.uminho.pt/PT">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" width="200" /> 
 </p>
