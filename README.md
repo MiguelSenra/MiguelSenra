@@ -4,7 +4,7 @@ Universidade do Minho
   
   <p float="left">
   <a href="https://github.com/MiguelSenra">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSenra&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelSenra&show_icons=true&theme=dracula&include_all_commits=true&count_private=tru" height="180em"/>
     </div>
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
